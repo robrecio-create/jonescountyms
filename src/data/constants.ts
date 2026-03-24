@@ -2,11 +2,10 @@ export const towns = [
   { name: 'Laurel', slug: 'laurel', businesses: 0 },
   { name: 'Ellisville', slug: 'ellisville', businesses: 0 },
   { name: 'Sandersville', slug: 'sandersville', businesses: 0 },
-  { name: 'Moselle', slug: 'moselle', businesses: 0 },
   { name: 'Soso', slug: 'soso', businesses: 0 },
+  { name: 'Moselle', slug: 'moselle', businesses: 0 },
   { name: 'Ovett', slug: 'ovett', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -27,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
